@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">WildOut4</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="items_class">
+        <item>NULL</item>
+        <item>Center</item>
+        <item>North</item>
+        <item>South</item>
+    </string-array>
+
+    <string-array name="geo_demo_spinner">
+        <item>Div North</item>
+        <item>Div Center</item>
+        <item>Div South</item>
+    </string-array>
+
+    <string-array name="music_cattagory">
+        <item>NULL</item>
+        <item>Rock</item>
+        <item>Mainstream</item>
+        <item>Techno</item>
+        <item>Regatton</item>
+        <item>Trap</item>
+        <item>Trance</item>
+    </string-array>
+
+    <string-array name="age_spinner">
+        <item> Ageless</item>
+        <item> Too old</item>
+        <item> 26</item>
+        <item> 25</item>
+        <item> 24</item>
+        <item> 23</item>
+        <item> 22</item>
+        <item> 21</item>
+        <item> 20</item>
+        <item> 19</item>
+        <item> 18</item>
+        <item> 17</item>
+        <item> 16</item>
+        <item> 15</item>
+        <item> 14</item>
+        <item> 13</item>
+        <item> Born Yesterday</item>
+    </string-array>
+
+
+</resources>
